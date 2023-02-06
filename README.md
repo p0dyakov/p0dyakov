@@ -1,4 +1,4 @@
-**[`Telegram`](https://t.me/p0dyakov) [`Leetcode`](https://leetcode.com/p0dyakov/) [`Habr`](https://habr.com/ru/users/p0dyakov) [`Monkeytype`](https://monkeytype.com/profile/MzqTihCGaOcDQ1Zy4CXT3q7i7DQ2)** 
+**[`Telegram`](https://t.me/p0dyakov) [`Leetcode`](https://leetcode.com/p0dyakov/) [`Habr`](https://habr.com/ru/users/p0dyakov) [`Monkeytype`](https://monkeytype.com/profile/p0dyakov)** 
 
 ## 📊 GitHub Stats:
 <p>
