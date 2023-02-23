@@ -1,5 +1,3 @@
-**[`Telegram`](https://t.me/p0dyakov) [`Leetcode`](https://leetcode.com/p0dyakov/) [`Habr`](https://habr.com/ru/users/p0dyakov) [`Monkeytype`](https://monkeytype.com/profile/p0dyakov)** 
-
 ## 📊 GitHub Stats:
 <p>
   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=p0dyakov&theme=city_lights&count_private=true&hide_border=true&hide_title=true&show_icons=true" />
