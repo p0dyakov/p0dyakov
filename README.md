@@ -3,4 +3,4 @@
   <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0dyakov&layout=compact&langs_count=6&hide=sass,makefile,shell,mustache&hide_border=true&theme=city_lights" />
 </p> 
 
-[Telegram](https://t.me/p0dyakov/) | [Leetcode](https://leetcode.com/p0dyakov/) | [LinkedIn](https://www.linkedin.com/in/p0dyakov/) | [Habr Career](https://career.habr.com/p0dyakov/) | [MonkeyType](https://monkeytype.com/profile/p0dyakov) | z@p0dyakov.ru
+[Links](https://linktr.ee/p0dyakov)
